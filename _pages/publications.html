@@ -9,14 +9,31 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<h2>Peer-reviewed</h2>
 <ul style="font-size: 14px; line-height: 1.4;">
 {% for post in site.publications reversed %}
-  <li>
-    {{ post.citation }}
-    {% if post.paperurl %}
-      – <a href="{{ post.paperurl }}" target="_blank">paper</a>
-    {% endif %}
-  </li>
+  {% if post.status == "peer-reviewed" %}
+    <li>
+      {{ post.citation }}
+      {% if post.paperurl %}
+        – <a href="{{ post.paperurl }}" target="_blank">paper</a>
+      {% endif %}
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<h2>Under review</h2>
+<ul style="font-size: 14px; line-height: 1.4;">
+{% for post in site.publications reversed %}
+  {% if post.status == "under-review" %}
+    <li>
+      {{ post.citation }}
+      {% if post.paperurl %}
+        – <a href="{{ post.paperurl }}" target="_blank">paper</a>
+      {% endif %}
+    </li>
+  {% endif %}
 {% endfor %}
 </ul>
 
