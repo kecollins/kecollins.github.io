@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2>Peer-reviewed</h2>
+<h2>Peer-reviewed manuscripts</h2>
 <ul style="font-size: 14px; line-height: 1.4;">
 {% for post in site.publications reversed %}
   {% if post.status == "peer-reviewed" %}
@@ -19,7 +19,7 @@ author_profile: true
 {% endfor %}
 </ul>
 
-<h2>Under review</h2>
+<h2>Preprints</h2>
 <ul style="font-size: 14px; line-height: 1.4;">
 {% for post in site.publications reversed %}
   {% if post.status == "under-review" %}
