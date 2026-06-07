@@ -12,3 +12,4 @@ I am a fifth year PhD candidate in the Department of Statistics at North Carolin
 **News:**
 
 - New [preprint](https://arxiv.org/pdf/2606.05374) on degraded spatial point processes available on arXiv
+- I passed my Oral Preliminary Examination, and am now a "PhD Candidate"
