@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year PhD candidate in the Department of Statistics at North Carolina State University, advised by by [Dr. Erin M. Schliep](https://sites.google.com/ncsu.edu/emschliep/home). My research interests are primarily in Bayesian statistics, spatiotemporal modeling, and point processes with applications in the environmental sciences.
+My name is Kevin Collins and I am currently a fifth year PhD candidate in the Department of Statistics at North Carolina State University, advised by by [Dr. Erin M. Schliep](https://sites.google.com/ncsu.edu/emschliep/home). My research interests include
+- Spatiotemporal statistics
+- Point processes
+- Bayesian inference (generalized Bayesian inference, nonparametric Bayes)
+- Species distribution modeling
+- Ecological modeling using imperfect data
 
 **News:**
 
