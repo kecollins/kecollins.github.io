@@ -17,11 +17,11 @@ My name is Kevin Collins and I am currently a fifth year PhD candidate in the De
 **News:**
 
 <div style="margin-bottom: 10px;">
-  <strong>June 2026</strong> — New [preprint](https://arxiv.org/pdf/2606.05374) on degraded spatial point processes available on arXiv
+  <strong>June 2026</strong> — New <a href="https://arxiv.org/pdf/2606.05374">preprint</a> on degraded spatial point processes available on arXiv
 </div>
 
 <div style="margin-bottom: 10px;">
-  <strong>June 2026</strong> — Our [publication]((https://arxiv.org/pdf/2605.08532)) has been accepted for publication in <em>Ecology</em>
+  <strong>June 2026</strong> — Our <a href="https://arxiv.org/pdf/2605.08532">preprint</a> has been accepted for publication in <em>Ecology</em>
 </div>
 
 <div style="margin-bottom: 10px;">
