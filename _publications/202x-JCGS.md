@@ -2,7 +2,7 @@
 title: "Efficient Bayesian inference for spatial point patterns using the Palm likelihood"
 collection: publications
 paperurl: 'https://arxiv.org/abs/2507.17065'
-citation: '<strong>Collins, K. M.</strong>, & Schliep, E. M. (202x). Efficient Bayesian Inference for Spatial Point Patterns Using the Palm Likelihood. <em>Under review at The Journal of Computational and Graphical Statistics</em>.'
+citation: '<strong>Collins, K. M.</strong>, & Schliep, E. M. (202x). Efficient Bayesian inference for spatial point patterns using the palm likelihood. <em>Under revision at The Journal of Computational and Graphical Statistics</em>.'
 status: 'under-review'
 date: 2025-07-21
 ---
