@@ -1,3 +1,4 @@
+```html
 ---
 layout: archive
 title: "Research"
@@ -5,9 +6,11 @@ permalink: /research/
 author_profile: true
 ---
 
+{% assign publications = site.publications | sort: "date" | reverse %}
+
 <h2>Publications</h2>
 <ol style="font-size: 14px; line-height: 1.4;">
-{% for post in site.publications reversed %}
+{% for post in publications %}
   {% if post.status == "peer-reviewed" %}
     <li>
       {{ post.citation }}
@@ -22,7 +25,7 @@ author_profile: true
 <h2>Preprints</h2>
 <ol start="{{ site.publications | where: 'status', 'peer-reviewed' | size | plus: 1 }}"
     style="font-size: 14px; line-height: 1.4;">
-{% for post in site.publications reversed %}
+{% for post in publications %}
   {% if post.status == "under-review" %}
     <li>
       {{ post.citation }}
@@ -36,7 +39,7 @@ author_profile: true
 
 <h2>Presentations</h2>
 <ol style="font-size: 14px; line-height: 1.4;">
-{% for post in site.publications reversed %}
+{% for post in publications %}
   {% if post.status == "presentations" %}
     <li>
       {{ post.citation }}
@@ -47,3 +50,4 @@ author_profile: true
   {% endif %}
 {% endfor %}
 </ol>
+```
