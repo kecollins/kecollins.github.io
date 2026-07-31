@@ -16,4 +16,14 @@ My name is Kevin Collins and I am currently a fifth year PhD candidate in the De
 
 **News:**
 
-- New [preprint](https://arxiv.org/pdf/2606.05374) on degraded spatial point processes available on arXiv
+- <div style="margin-bottom: 10px;">
+  <strong>June 2026</strong> — New [preprint](https://arxiv.org/pdf/2606.05374) on degraded spatial point processes available on arXiv
+</div>
+
+- <div style="margin-bottom: 10px;">
+  <strong>June 2026</strong> — Our [publication]((https://arxiv.org/pdf/2605.08532)) has been accepted for publication in <em>Ecology</em>
+</div>
+
+- <div style="margin-bottom: 10px;">
+  <strong>January 2025</strong> — I was selected as one of two winners in the 2025 ENVR Student Paper Competition!
+</div>
