@@ -1,8 +1,8 @@
 ---
 title: "Accounting for variable detection functions in temporal abundance modeling via transfer learning"
 collection: publications
-paperurl: 'https://arxiv.org/abs/2605.08532'
-citation: '<strong>Collins, K. M.</strong>, Schliep, E. M., Wagner, T., & Wikle, C. K. (202x). Accounting for variable detection functions in temporal abundance modeling via transfer learning. <em>Ecology (In press)</em>.'
+paperurl: 'https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.70491'
+citation: '<strong>Collins, K. M.</strong>, Schliep, E. M., Wagner, T., & Wikle, C. K. (2026). Accounting for variable detection functions in temporal abundance modeling via transfer learning. <em>Ecology</em>.'
 status: 'peer-reviewed'
 date: 2026-06-01
 ---
