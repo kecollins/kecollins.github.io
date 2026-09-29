@@ -21,7 +21,7 @@ My name is Kevin Collins and I am currently a fifth year PhD candidate in the De
 </div>
 
 <div style="margin-bottom: 10px;">
-  <strong>June 2026</strong> — Our <a href="https://arxiv.org/pdf/2605.08532">paper</a> has been accepted for publication in <em>Ecology</em>
+  <strong>June 2026</strong> — Our <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.70491">paper</a> has been published in <em>Ecology</em>
 </div>
 
 <div style="margin-bottom: 10px;">
